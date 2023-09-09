@@ -6,6 +6,14 @@
 
 This repository contains a sample implementation of the `get_next_line` function, along with a usage example to help you understand how to integrate it into your C projects.
 
+## Table of Contents
+
+- [Features](#features)
+- [Usage](#usage)
+- [Build and Run](#build-and-run)
+- [Acknowledgments](#acknowledgments)
+- [Support](#support)
+
 ## Features
 
 - Reads lines of text from a file or input stream.
@@ -27,7 +35,7 @@ This repository contains a sample implementation of the `get_next_line` function
 #include "get_next_line.h"
 ```
 
-Example Usage
+### Example Usage
 
 ```c
 #include <stdio.h>
@@ -69,3 +77,7 @@ Then, run the compiled executable:
 ## Acknowledgments
 
 This implementation is based on the concept of reading lines from an input stream efficiently. It is inspired by similar functions used in various C libraries and projects.
+
+## Support 
+
+If you have any questions, encounter issues, or need assistance with the libft project, please feel free to open an issue on GitHub. Im here to help and improve the library together
